@@ -20,8 +20,8 @@ This 23486 rows and 10 feature variables. Each row corresponds to a customer rev
 
 7. Positive Feedback Count: Positive Integer documenting the number of other customers who found this review positive.
 
-Division Name: Categorical name of the product high level division.
+8. Division Name: Categorical name of the product high level division.
 
-Department Name: Categorical name of the product department name.
+9. Department Name: Categorical name of the product department name.
 
-Class Name: Categorical name of the product class name.
+10. Class Name: Categorical name of the product class name.
