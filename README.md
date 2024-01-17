@@ -2,9 +2,10 @@
 
 The project focuses on analyzing customer reviews from a Women’s Clothing E-Commerce dataset. It aims to derive insights from review texts, classify them as recommendations or not, and understand customer preferences and sentiments. The dataset comprises 23,486 reviews, each with several features like age, review text, rating, and recommendation status. 
 
-#### Here is the tableau dashboard link to understanding the data well (https://public.tableau.com/app/profile/tirth.gala7456/viz/ClothingE-commerceReview/ReviewAnalysis)
+#### Here is the tableau dashboard link to understand the data
+(https://public.tableau.com/app/profile/tirth.gala7456/viz/ClothingE-commerceReview/ReviewAnalysis)
 
-#### Content
+#### Understanding column names
 
 This 23486 rows and 10 feature variables. Each row corresponds to a customer review, and includes the variables:
 
