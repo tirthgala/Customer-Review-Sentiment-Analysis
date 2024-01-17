@@ -6,7 +6,7 @@ The project focuses on analyzing customer reviews from a Women’s Clothing E-Co
 (https://public.tableau.com/app/profile/tirth.gala7456/viz/ClothingE-commerceReview/ReviewAnalysis)
 #### Inside repository
 1. Women Clothing Review Analysis (pdf): This file has the business report of the whole project. It includes information right from data preparation to final business application of the project.
-2. Women Clothing Review Code (ipynb): This file contains the code of the whole project i.e., right from data preparation to testing model performance
+2. Women_Clothing_Reviews_Code (ipynb): This file contains the code of the whole project i.e., right from data preparation to testing model performance
 3. Women Clothing E-commerce Reviews (csv): File contains raw data downloaded from Kaggle
 #### Understanding spreadsheet data
 
